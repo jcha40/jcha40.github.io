@@ -35,6 +35,10 @@ section{
     font-family: 'Kanit', sans-serif; 
     color: var(--color-contrast);
 }
+.h3-white{
+    font-family: 'Open Sans', sans-serif;
+    color: var(--color-contrast);
+}
 .h5-white-openSans{
     color: var(--color-contrast);
     font-family: 'Open Sans', sans-serif;
@@ -145,6 +149,12 @@ section{
   .skill-content{
       margin-top: 100px;
   }
+a.notebook-link:hover {
+  text-decoration: underline;
+}
+a.notebook-link:active {
+  text-decoration: underline;
+}
 
 /*footer*/
 footer{
